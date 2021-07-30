@@ -4,7 +4,7 @@ Simple ToDo list for your works.
 
 ## ✨ Features
 
-![Home Page](/public/images/1.png "Home Page")
+![Home Page](/images/1.png "Home Page")
 
 -   📅 Plan your task for the next any number of days ( Not just one week)
 
@@ -14,7 +14,7 @@ Simple ToDo list for your works.
 
 -   🔆 Dark / Light mode
 
-![Home Page](/public/images/2.png "Home Page")
+![Home Page](/images/2.png "Home Page")
 
 ## ⚙️ Usage
 
